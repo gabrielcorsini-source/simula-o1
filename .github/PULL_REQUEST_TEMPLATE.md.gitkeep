@@ -1,1 +1,16 @@
+# Pull Request
 
+## Descrição 
+Explique brevemente o que este PR, faz e por que é necessário
+
+## Tipo de mudança 
+Selecione as opções aplicáveis
+
+-[] Bug finx
+-[] nova feture
+-[] alteração de feature existente
+-[] documentação 
+-[] outro
+
+## Issue relacionado
+Closes #<nýmero_da_issue>
